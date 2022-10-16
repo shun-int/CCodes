@@ -1,0 +1,3 @@
+F:/electronic/C_projects_files/ClionCodes/c_structures/cmake-build-debug/CMakeFiles/c_structures.dir
+F:/electronic/C_projects_files/ClionCodes/c_structures/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/electronic/C_projects_files/ClionCodes/c_structures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
